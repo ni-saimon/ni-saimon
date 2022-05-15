@@ -1,5 +1,5 @@
 - 👋 Hi, I’m nafiz imtiaz saimon
-- 👀 I’m interested in automated test
+- 👀 I’m interested in automation
 - 🌱 I’m currently learning selenium framework
 
 <!---
