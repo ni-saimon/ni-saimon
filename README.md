@@ -1,4 +1,4 @@
-- 👋 Hi, I’m nafiz imtiaz saimon
+- 👋 Hi, I’m Nafiz Imtiaz Saimon
 - 👀 I’m interested in automation
 - 🌱 I’m currently learning selenium framework
 
