@@ -1,6 +1,4 @@
-- 👋 Hi, I’m Nafiz Imtiaz Saimon
-- 👀 I’m interested in automation
-- 🌱 I’m currently learning selenium framework
+- Hi, I’m Nafiz Imtiaz Saimon
 
 <!---
 ni-saimon/ni-saimon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
